@@ -1,4 +1,4 @@
-# 🚀 MC4.0 Programming & Media Resources  
+#  MC4.0 Programming & Media Resources  
 
 Welcome to the **MC4.0 Programming & Media Resources** repository! This repo provides **block-based coding, MicroPython, and Arduino (C++)** code samples along with **media resources** for **MC4.0**, helping educators, students, and developers explore **robotics, AI, and IoT with the MC4.0 Kit**.
 
@@ -13,7 +13,7 @@ Welcome to the **MC4.0 Programming & Media Resources** repository! This repo pro
 
 ---
 
-## 🚀 Getting Started  
+## Getting Started  
 
 ### 🟦 Block-Based Programming with McLab  
 McLab is a **drag-and-drop** coding platform for MC4.0, ideal for beginners.  
