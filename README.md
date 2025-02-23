@@ -7,8 +7,11 @@ Welcome to the **MC4.0 Programming & Media Resources** repository! This repo pro
 ## 📁 Repository Structure  
 
 📂 Blocks/ → Block-based programs for McLab 
+
 📂 Micropython/ → MicroPython scripts for VS Code 
+
 📂 Arduino/ → C++ programs for Arduino IDE 
+
 📂 Media/ → Images & sounds compatable with MC4.0
 
 ---
